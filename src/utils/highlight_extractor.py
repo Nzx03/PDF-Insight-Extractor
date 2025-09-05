@@ -1,0 +1,1 @@
+#extracts highlighs from annotations
