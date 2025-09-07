@@ -1,1 +1,523 @@
-page 11 Highlight:fpage 17 Highlight:A
+role of Data Analytics?
+Sources of Data for Data Analysis
+Data Analytics has a key role in improving your business as it is used to gather
+hidden insights, generate reports, perform market analysis, and improve
+business requirements.
+• Gather Hidden Insights –
+• Generate Reports
+• Perform Market Analysis
+• Improve Business Requirement
+1. Primary data
+2. Secondary data
+data which is Raw, original, and extracted directly from the official sources is
+The data which is Raw, original, and extracted directly from the official sources is
+known as primary data.
+Few methods of collecting primary data:
+Secondary data is the data which has already been collected and reused again for
+some valid purpose.
+has two types of sources named internal source and external source.
+Internal source:
+External source: The data which can’t
+The data which can’t be found at internal organizations and can be gained through
+The data which can’t be found at internal organizations external third party resources is external source data.
+Other sources:
+1.Primary data:
+1. Interview method:
+2. Survey method:
+3. Observation method:
+4. Experimental method:
+2. Secondary data:
+it
+it
+These types of data can easily be found within the organization such as market
+record, a sales record, transactions,
+Examples of
+external sources are Government publications, news publications,
+• Sensors data:
+• Satellites data:
+• Web traffic:
+sources of data can be classified into two types: statistical and non-statistical.
+Non-statistical sources
+refer to the collection of data for other administrative purposes or
+different sources of data?
+1. Internal sources
+2. External sources
+data is collected from reports and records of the organisation itself,
+data is collected from sources outside the organisation,
+Types of Data
+A) Primary data
+B) Secondary data
+first-hand information collected by an investigator.
+refers to second-hand information.
+the population census conducted by the government of India
+after every ten years is primary data.
+For example, the
+For example, the address of a person taken from the telephone directory or
+the phone number of a company taken from Just Dial are secondary data.
+Methods of Collecting Primary Data
+Statistical sources refer to data that is gathered for some official purposes,
+1. Direct personal investigation
+2. Indirect oral investigation
+3. Information through correspondents
+4. Telephonic interview
+Structured, Semi-structured, and
+Unstructured Data
+Structured Data?
+This type of data consists of various addressable elements to encourage effective
+analysis.
+Relational data is one of the most
+commendable examples of Structured Data.
+Semi-Structured Data?
+It is the type of information and data that does not get stored in a relational type of
+database but has organizational properties that facilitate an easier analysis.
+data. But overall, they ease the space available for the
+contained information. XML data is an example of semi-structured data.
+Unstructured Data?
+Various organizations use unstructured data for various
+business intelligence apps and analytics. A few examples of the unstructured data
+structure are Text, PDF, Media logs, Word,
+Structured, Semi-structured, and Untructured Data
+5. Mailed questionnaire
+6. The questionnaire filled by enumerators
+type of data structure that does not exist in a predefined organized manner. In
+other words, it does not consist of any predefined data model.
+Structured Data
+Semi-Structured Data
+Data
+Unstructured Data
+The information
+and data have a
+predefined
+organization.
+The contained data
+and information have
+organizational
+properties- but are
+different from
+predefined structured
+data.
+There is no
+predefined
+organization for the
+available data and
+information in the
+system or
+database.
+Data
+Structure
+Technology
+Used
+Flexibility
+less
+flexibility.
+more flexible
+than the structured
+data.
+most flexible of
+all.
+adapts the
+transaction from
+DBMS.
+not of
+mature type.
+consists of no
+management of
+transaction or
+concurrency.
+possible to
+version over
+tables, rows, and
+tuples.
+possible to
+version over graphs
+or tuples.
+possible to
+version the data as
+a whole.
+very robust in
+nature.
+is a fairly new
+technology. Thus, it is
+not very robust in
+nature.
+Robustness Structured
+Management
+of Version
+Management
+Management
+Management
+of
+Transaction
+Structured Data
+words on the basis
+of relational
+database tables.
+Semi-Structured Data
+works on the basis of
+Relational Data
+Framework (RDF) or
+XML.
+Unstructured data
+works on the basis
+of binary data and
+the available
+characters.
+It has a mature
+type of
+transaction.
+Scaling a database
+schema is very
+difficult.
+Scaling a Semi-
+Structured type of
+data is comparatively
+much more feasible.
+An unstructured
+data type is the
+most scalable in
+nature.
+Performance
+of Query
+Scalability
+Semi-structured
+queries over various
+nodes (anonymous)
+are most definitely
+possible.
+Unstructured data
+only allows textual
+types of queries.
+# Five Characteristics Of Good Quality Data!
+1. Data should be precise which means it should contain accurate
+information.
+2. Data should be relevant and according to the requirements of the
+user.
+3. Data should be consistent and reliable.
+4. Relevance of data is necessary in order for it to be of good quality and useful. Although in today’s world of dynamic data
+quality and useful.
+5. A high quality data is unique to the requirement of the user.
+Data?
+The quantities, characters, or symbols on which operations are performed by a computer,
+which may be stored and transmitted in the form of electrical signals and recorded on
+magnetic, optical, or mechanical recording media.
+Big Data?
+Big Data is a collection of data that is huge in volume, yet growing exponentially with
+time.
+It is a data with so large size and complexity that none of traditional data
+management tools can store it or process it efficiently. Big data is also a data but with
+huge size.
+Example of Big Data?
+The New York Stock Exchange is an example of Big Data that generates about one
+terabyte of new trade data per day.
+The statistic shows that 500+terabytes of new data get ingested into the databases of
+social media site Facebook, every day.
+A single Jet engine can generate 10+terabytes of data in 30 minutes of flight time. With
+many thousand flights per day, generation of data reaches up to many Petabytes.
+Types Of Big Data
+Characteristics Of Big Data
+1. Structured
+2. Unstructured
+3. Semi-structured
+• Volume
+• Variety
+• Velocity
+• Variability
+Big Data itself is related to a size which is enormous.
+‘Volume’ is one characteristic which needs to be considered while dealing with Big
+Data solutions.
+(ii) Variety – The next aspect of Big Data is its variety.
+Variety refers to heterogeneous sources and the nature of data, both structured and
+unstructured.
+(iii) Velocity
+‘velocity’ refers
+(iii) Velocity
+(ii)
+refers to the speed of generation of data. How
+Big Data Velocity deals with the speed at which data flows in from sources like business
+processes, application logs, networks, and social media sites, sensors, Mobile devices, etc.
+(iv) Variability
+This refers to the inconsistency which can be shown by the data at times,
+thus hampering the process of being able to handle and manage the data effectively.
+Advantages Of Big Data Processing
+• Businesses can utilize outside intelligence while taking decisions
+• Improved customer service
+• Early identification of risk to the product/services, if any
+• Better operational efficiency
+(i) Volume
+Need / Importance of Big Data
+• Reduction in cost.
+• Time reductions.
+• New product development with optimized offers.
+• Well-groomed decision making.
+Challenges of Big data
+• Rapid Data Growth:
+• Storage:
+• Unreliable Data:
+• Data Security:
+Introduction to Big Data platform
+platform
+Introduction to Big Data platform
+1. Big data platform is a type of IT solution that combines the features and capabilities of
+several big data application and utilities within a single solution.
+an enterprise class IT platform that enables organization in developing,
+deploying,
+operating
+managing a big data infrastructure/ environment.
+1.
+2. It is an
+Features of Big Data analytics platform
+# Steps involved in data analysis are
+Data Requirements Specification
+the data necessary as inputs to the
+analysis is identified (e.g., Population of people).
+Specific variables regarding a
+population (e.g., Age and Income) may be specified and obtained. Data may be
+numerical or categorical.
+Data Collection is the process of gathering information on targeted variables identified
+as data requirements.
+1. Big Data platform should be able to accommodate new platforms and tool based on the
+business requirement.
+2. It should support linear scale-out.
+3. It should have capability for rapid deployment.
+4. It should support variety of data format.
+5. Platform should provide data analysis and reporting tools.
+6. It should provide real-time data analysis software.
+7. It should have tools for searching the data through large data sets.
+• Data Requirements Specification
+• Data Collection
+• Data Processing
+• Data Cleaning
+• Data Analysis
+• Communication
+Data Collection
+Data is collected from various sources ranging from organizational databases to the
+information in web pages.
+Data Processing
+The data that is collected must be processed or organized for analysis.
+For example, the data
+might have to be placed into rows and columns in a table within a Spreadsheet or
+Statistical Application.
+Data Cleaning
+The processed and organized data may be incomplete, contain duplicates, or contain
+errors. Data
+Data Cleaning is the process of preventing and correcting these errors.
+For example,
+while cleaning the financial data, certain totals might be compared against reliable
+published numbers or defined thresholds.
+Data Analysis
+Data that is processed, organized and cleaned would be ready for the analysis.
+Statistical Data Models such as Correlation, Regression Analysis can be used to
+identify the relations among the data variables.
+The process might require additional Data Cleaning or additional Data Collection, and
+hence these activities are iterative in nature.
+Communication
+The results of the data analysis are to be reported in a format as required by the users
+to support their decisions and further action.
+Evolution of analytics scalability
+we have to pull the data together in a separate
+analytics environment and then start performing analysis.
+1.
+2. Analysts do the merge operation on the data sets which contain rows and
+columns.
+3. The columns represent information about the customers such as name,
+spending level, or status.
+4. In merge or join, two or more data sets are combined together.
+5. Analysts also do data preparation.
+Data preparation is made up of joins,
+aggregations, derivations, and transformations.
+6. Massively Parallel Processing (MPP) system is the most mature, proven, and
+widely deployed mechanism for storing and analyzing large amounts of data.
+7. An MPP database breaks the data into independent pieces managed by
+independent storage and central processing unit (CPU) resources.
+Fig. Massively parallel processing system data storage
+#Data analytic tools.
+#1 Tableau Public
+Tableau,
+tools, is a simple and intuitive and tool
+which offers intriguing insights through data visualization.
+Uses of Tableau Public
+You can publish interactive data visualizations to the web for free.
+No programming skills required.
+2.
+1.
+8. MPP systems build in redundancy to make recovery easy.
+9. MPP systems have resource management tools :
+a. Manage the CPU and disk space
+b. Query optimizer
+3. Visualizations published to Tableau Public can be embedded into blogs and
+web pages and be shared through email or social media. The shared
+content can be made available s for downloads.
+Limitations of Tableau Public
+All data is public and offers very little scope for restricted access
+2. Data size limitation
+1.
+3. Cannot be connected to
+4. The only way to read is via OData sources, is Excel or txt.
+#2 OpenRefine
+Formerly known as GoogleRefine,
+the data cleaning software that helps you clean
+up data for analysis. It
+Uses of OpenRefine
+1.
+Cleaning messy data
+2. Transformation of data
+3. Parsing data from websites
+4. Adding data to the dataset by fetching it from web services. For instance,
+OpenRefine could be used for geocoding addresses to geographic
+coordinates.
+Limitations of OpenRefine
+Open Refine is unsuitable for large datasets.
+2. Refine does not work very well with big data.
+1.
+#3 KNIME
+KNIME,
+helps you to manipulate,
+helps
+analyze, and model data through visual programming.
+Uses of KNIME
+Rather than writing blocks of code, you just have to drop and drag
+connection points between activities.
+1.
+2. This data analysis tool supports programming languages.
+3. In fact, analysis tools like these can be extended to run chemistry data, text
+mining, python, and R.
+Limitation of KNIME
+Poor data visualization
+#4 RapidMiner
+RapidMiner provides machine learning procedures and data mining including
+data visualization, processing, statistical modeling, deployment, evaluation, and
+predictive analytics.
+Uses of RapidMiner
+It provides an integrated environment for business analytics, predictive analysis,
+text mining, data mining, and machine learning.
+Limitations of RapidMiner
+RapidMiner
+1.
+RapidMiner has size constraints with respect to the number of rows.
+2. For RapidMiner, you need more hardware resources than ODM and SAS.
+#5 Google Fusion Tables
+An incredible tool for data
+analysis, mapping, and large dataset visualization,
+Uses of Google Fusion Tables
+1.
+Visualize bigger table data online:
+2. Filter and summarize across hundreds of thousands of rows.
+3. Combine tables with other data on the web:
+Limitations of Google Fusion Tables
+Only the first 100,000 rows of data in a table are included in query results
+or mapped.
+2. The total size of the data sent in one API call cannot be more than 1MB.
+1.
+#6 NodeXL
+NodeXL is a free and open-source network analysis and visualization software.
+Uses of NodeXL
+1. Data Import
+2. Graph Visualization
+3. Graph Analysis
+4. Data Representation
+It can import various graph formats like adjacency
+matrices, Pajek .net, UCINet .dl, GraphML, and edge lists.
+lists.
+Limitations of NodeXL
+1.
+Multiple seeding terms are required for a particular problem.
+2. Need to run the data extractions at slightly different times.
+#7 Wolfram Alpha
+Wolfram Alpha,
+knowledge engine or answering engine founded by Stephen Wolfram.
+you get answers to factual queries directly by computing the
+answer from externally sourced ‘curated data’ instead of providing a list of
+documents or web pages.
+Uses of Wolfram Alpha
+1.
+Is an add-on for Apple’s Siri
+2. Provides detailed responses to technical searches and solves calculus
+problems.
+3. Helps business users with information charts and graphs, and helps in
+creating topic overviews, commodity information, and high-level pricing
+history.
+Limitations of Wolfram Alpha
+1.
+Wolfram Alpha can only deal with the publicly known number and facts, not
+with viewpoints.
+2. It limits the computation time for each query.
+#8 Google Search Operators
+It is a powerful resource that helps you filter Google results instantly to get the
+most relevant and useful information.
+Uses of Google Search Operators
+1.
+Fast filtering of Google results.
+2. Google’s powerful data analysis tool can help discover new information or
+market research.
+#9 Solver
+Excel Solver?
+tools is a linear programming and optimization tool in excel.
+It is an advanced optimization tool that helps in quick problem-
+solving.
+Uses of Solver
+The final values found by Solver are a solution to interrelation and decision.
+Limitations of Solver
+1.
+Poor scaling is one of the areas where Excel Solver lacks.
+2. It can affect solution time and quality.
+3. Solver affects the intrinsic solvability of your model.
+#10 Dataiku DSS
+Dataiku is a collaborative data
+science software platform that helps the team build, prototype, explore, and
+deliver their own data products more efficiently.
+Uses of Dataiku DSS
+It provides an interactive visual interface where they can build, click, and point or
+use languages like SQL. This
+It
+data analytics tool lets you draft data preparation and
+modulization in seconds. Helps you coordinate development and operations by
+handling workflow automation, creating predictive web services, model health on
+a daily basis, and monitoring data.
+Limitation of Dataiku DSS
+1.
+Limited visualization capabilities
+2. UI hurdles: Reloading of code/datasets
+3. Inability to easily compile entire code into a single document/notebook
+4. Still, need to integrate with SPARK
+Process Analysis
+Process Analysis is nothing but a review of the entire process flow of an organization
+to arrive at a thorough understanding of the process.
+Objectives of Process analysis
+1. Identify the factors that make it difficult to understand the process.
+3. Remove bottlenecks
+5. Ascertain the allocation of resources
+# Analytics and Reporting
+• Analytics involves data interpreting where reporting involving presenting
+factual, accurate data.
+#Data Analytics Applications
+1. Security
+2. Transportation
+3. Risk detection
+4. Risk Management
+Management
+5. Delivery
+6. Fast internet allocation
+7. Reasonable Expenditure
+8. Interaction with customers
+9. Planning of cities
+10. Healthcare
+11. For Travelling
+12. Managing Energy
+13. Internet searching
+14. Digital advertisement
+Key roles for a successful analytics project
+1. Business User :
+2. Project Sponsor
+3. Project Manager
+4. Business Intelligence Analyst
+5. Database Administrator (DBA)
+6. Data Engineer
+7. Data Scientist
+# Stages of data analytics /Life cycle of data analytics
+Data Analytics Lifecycle
+Phase 1: Discovery
+Phase 2: Data Preparation
+Phase 3: Model Planning
+Phase 4: Model Building
+– Phase 5: Communication Results
+Phase 6: Operationalize
