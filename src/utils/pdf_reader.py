@@ -6,7 +6,7 @@ from src.exception import CustomException
 import os
 
 pdf_path=r"input_pdfs\unit-1-da-notes-for-data-analytics-unit-1 (1).pdf"
-output_path="output\highlights\pdf1_highlights.txt"
+output_path="output\highlights\Doc1.pdf"
 
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
